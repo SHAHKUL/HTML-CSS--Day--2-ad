@@ -1,0 +1,139 @@
+.box{
+    border: black solid 2px;
+   height: 800px;
+   width: 1230px;
+   margin: 30px;
+   background-color: rgb(255, 44, 44);
+   border-radius: 20px;
+}
+.b0{
+   border: black solid 2px;
+   height: 42px;
+   width: 800px;
+   margin: 20px;
+   margin-left: 200px;
+   border-radius: 10px;
+   background-color: yellow
+    
+}
+
+.b1{
+
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: 50px;
+   margin-left: 35px;
+   background-color: yellow;
+   border-radius: 5px; 
+}
+
+.b2{
+
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: 50px;
+   margin-left: 35px;
+   background-color: yellow;
+   border-radius: 5px;
+}
+.b3{
+
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: -610px;
+   margin-left: 320px;
+   background-color: yellow;
+   border-radius: 5px;
+}
+
+.b4{
+
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: 50px;
+   margin-left: 320px;
+   background-color: yellow;
+   border-radius: 5px;
+}
+
+.b5{
+
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: -610px;
+   margin-left: 620px;
+   background-color: yellow;
+   border-radius: 5px;
+}
+
+.b6{
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: 50px;
+   margin-left: 620px;
+   background-color: yellow;
+   border-radius: 5px;
+}
+
+.b7{
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: -610px;
+   margin-left: 920px;
+   background-color: yellow;
+   border-radius: 5px;
+}
+
+.b8{
+   height: 280px;
+   width: 230px;
+   border: solid black 2px;
+   margin-top: 50px;
+   margin-left: 920px;
+   background-color: yellow;
+   border-radius: 5px;
+}
+
+p{
+   font-size: x-large;
+    margin-left: -25px;
+   font-family: 'Times New Roman', Times, serif;
+   color: black
+}
+button{
+   background-color: red;
+   width: 225px;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif
+   
+}
+.fa{
+   margin-top: -5px;
+   margin-left: -5px;
+   color: black
+  
+}
+
+body{
+
+   font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+h2{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   
+   color: black
+  
+}
+
+
